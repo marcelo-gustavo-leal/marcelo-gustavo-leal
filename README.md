@@ -16,9 +16,9 @@
 Profissional de TI com cerca de **2 anos de experiência** em infraestrutura, redes e suporte técnico.
 
 - 🌐 Hoje cuido da **infraestrutura de rede na Brasil TecPar**: ativos de rede, monitoramento e falhas de conectividade no datacenter e em campo
-- 🛠️ Já fui suporte **N1/N2** de mais de 45 colaboradores (GLPI, Active Directory, Microsoft 365)
+- 🛠️ Já fui suporte **N1/N2**  (GLPI, Active Directory, Microsoft 365)
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Estácio)
-- 🐍 Estudo **Python para automação de TI**
+- 🐍 Estudo **Python para automação de TI e IA**
 - 📘 Autor do livro **Jornada Python**, publicado pela UICLAP
 
 ---
@@ -32,7 +32,7 @@ Profissional de TI com cerca de **2 anos de experiência** em infraestrutura, re
 | Área | Conhecimentos |
 |---|---|
 | **Redes** | TCP/IP, DNS, DHCP, VLANs, VPN, firewall, roteadores, switches, Mikrotik, Huawei, fibra (ONUs) |
-| **Infraestrutura** | Datacenter, racks, patch panels, cabeamento estruturado, Proxmox, VMware ESXi, backup |
+| **Infraestrutura** | Datacenter, racks, patch panels, cabeamento estruturado |
 | **Sistemas** | Windows 10/11, Linux, Active Directory, Microsoft 365 |
 | **Suporte e gestão** | Help Desk N1/N2, GLPI, ITIL, SLA, inventário de ativos, acesso remoto |
 | **Monitoramento** | Alarmes e quedas de link, Zabbix |
