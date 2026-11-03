@@ -58,15 +58,3 @@ Profissional de TI com cerca de **2 anos de experiência** em infraestrutura, re
 ![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcelo-gustavo-leal&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=marcelo-gustavo-leal&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcelo-gustavo-leal&color=2F81F7&style=flat-square&label=Visitas" alt="Visitas"/>
-</p>
