@@ -19,7 +19,7 @@ Profissional de TI com cerca de **2 anos de experiência** em infraestrutura, re
 - 🛠️ Já fui suporte **N1/N2**  (GLPI, Active Directory, Microsoft 365)
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Estácio)
 - 🐍 Estudo **Python para automação de TI e IA**
-- 📘 Autor do livro **Jornada Python**, publicado pela UICLAP
+- 📘 Autor do livro **[Jornada Python](https://loja.uiclap.com/titulo/ua215226)**, publicado pela UICLAP
 
 ---
 
@@ -45,7 +45,7 @@ Profissional de TI com cerca de **2 anos de experiência** em infraestrutura, re
 | Projeto | Descrição |
 |---|---|
 | 🏢 **[Pronto](https://sitepronto.top)** | Plataforma SaaS de gestão e automação empresarial · 🔗 [sitepronto.top](https://sitepronto.top) |
-| 📘 **Jornada Python** | Livro sobre programação em Python, publicado pela UICLAP |
+| 📘 **[Jornada Python](https://loja.uiclap.com/titulo/ua215226)** | Livro sobre programação em Python, publicado pela UICLAP · 🔗 [Comprar na UICLAP](https://loja.uiclap.com/titulo/ua215226) |
 | 🧠 **[Mentesfera](https://mentesfera.com.br)** | Blog de conteúdo e conhecimento digital · 🔗 [mentesfera.com.br](https://mentesfera.com.br) |
 | 🖥️ **Homelab** | Servidor com Proxmox/VMware ESXi para serviços de rede e laboratórios |
 | ⚙️ **Automação de rotinas** | Scripts em Python e Bash para backup automatizado e limpeza de logs no Linux |
